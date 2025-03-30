@@ -1,6 +1,6 @@
 # S&C Fontanería - Página Web
 
-![Preview](https://i.imgur.com/KbRjJfA.png)
+[Preview](https://sandrodevx.github.io/Fontaneria-SC/)
 
 Página web profesional para la empresa de fontanería **S&C** ubicada en Andratx (Mallorca), con servicios en toda la isla.
 
